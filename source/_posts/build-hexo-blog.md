@@ -63,10 +63,10 @@ tags: [hexo,博客搭建,教程]
 1.执行新增博客记录命令：
 
 ```shell
-hexo new myfirstblog   #新建一篇文章,生成source\_posts\build-hexo-blog.md
+hexo new myfirstblog   #新建一篇文章,生成source\_posts\myfirstblog.md
 ```
 
-2.编辑build-hexo-bog.md并保存，重新[运行博客](#jump)即可预览效果
+2.编辑myfirstblog.md并保存，重新[运行博客](#jump)即可预览效果
 
    *[markdown教程](https://www.runoob.com/markdown/md-tutorial.html)*
 
